@@ -1,11 +1,15 @@
-### Hi there 👋
+### Hi, 👋 I,m Patrick.
 
-<!--
-**plyn85/plyn85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<p align="center">
+  <samp> I'm a Code Institute graduate, Passionate in developing Full Stack sites. I am looking forward to work, learn on both frontend and backend.I, m Passioniate towards learning. Some of the technologies I enjoy working with include JavaScript, Flask, Django, MongoDB, dc.js.
+  </samp>
+  <br>
+  
+</p>
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
